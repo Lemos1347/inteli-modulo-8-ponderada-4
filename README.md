@@ -8,6 +8,9 @@ Esse repositório contém os códigos para a seguinte atividade:
 Utilizando um LLM (local ou API externa), crie um chatbot simples com instruções customizadas para ajudar um usuário a pesquisar normas de segurança em ambientes industriais. O sisema deve contar com uma interface gráfica e responder de forma sucinta e clara sobre o que lhe foi perguntado.
 ```
 
+O arquivo `Modalfile` contém as instruções para a criação do LLM personalizado no Ollama, como importação de um modelo base e uma mensagem de 'sistema'.  
+O arquivo `main.py` contém o código para a criação do chatbot e a interface gráfica.
+
 ## Como rodar
 
 Para rodar essa aplicação tenha instalado em seu computador e que esteja rodando o [Ollama](https://ollama.ai/).  
