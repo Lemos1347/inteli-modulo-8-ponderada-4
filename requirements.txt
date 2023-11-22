@@ -1,0 +1,244 @@
+action-msgs==1.2.1
+action-tutorials-interfaces==0.20.3
+action-tutorials-py==0.20.3
+actionlib-msgs==4.2.3
+aiohttp @ file:///Users/runner/miniforge3/conda-bld/aiohttp_1696765487082/work
+aiosignal @ file:///home/conda/feedstock_root/build_artifacts/aiosignal_1667935791922/work
+ament-cmake-test==1.3.3
+ament-copyright==0.12.5
+ament-cppcheck==0.12.5
+ament-cpplint==0.12.5
+ament-flake8==0.12.5
+ament-index-python==1.4.0
+ament-lint==0.12.5
+ament-lint-cmake==0.12.5
+ament-package==0.14.0
+ament-pep257==0.12.5
+ament-uncrustify==0.12.5
+ament-xmllint==0.12.5
+angles==1.15.0
+argcomplete @ file:///home/conda/feedstock_root/build_artifacts/argcomplete_1698912039670/work
+async-timeout @ file:///home/conda/feedstock_root/build_artifacts/async-timeout_1691763562544/work
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1683424013410/work
+bond==3.0.2
+builtin-interfaces==1.2.1
+cartographer-ros-msgs==2.0.9000
+catkin-pkg @ file:///home/conda/feedstock_root/build_artifacts/catkin_pkg_1694651879177/work
+catkin-tools @ file:///home/conda/feedstock_root/build_artifacts/catkin_tools_1691089410339/work
+certifi==2023.7.22
+cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1696001737800/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1698833585322/work
+colcon-argcomplete @ file:///home/conda/feedstock_root/build_artifacts/colcon-argcomplete_1649143410380/work
+colcon-bash @ file:///home/conda/feedstock_root/build_artifacts/colcon-bash_1695707631156/work
+colcon-cd @ file:///home/conda/feedstock_root/build_artifacts/colcon-cd_1649143092283/work
+colcon-cmake @ file:///home/conda/feedstock_root/build_artifacts/colcon-cmake_1696469292972/work
+colcon-common-extensions @ file:///Users/runner/miniforge3/conda-bld/colcon-common-extensions_1667471608810/work
+colcon-core @ file:///home/conda/feedstock_root/build_artifacts/colcon-core_1696492596662/work
+colcon-defaults @ file:///home/conda/feedstock_root/build_artifacts/colcon-defaults_1675322054387/work
+colcon-devtools @ file:///home/conda/feedstock_root/build_artifacts/colcon-devtools_1696534485642/work
+colcon-library-path==0.2.1
+colcon-metadata @ file:///home/conda/feedstock_root/build_artifacts/colcon-metadata_1597041627739/work
+colcon-output @ file:///home/conda/feedstock_root/build_artifacts/colcon-output_1676526198897/work
+colcon-package-information==0.3.3
+colcon-package-selection @ file:///home/conda/feedstock_root/build_artifacts/colcon-package-selection_1602006931176/work
+colcon-parallel-executor==0.2.4
+colcon-pkg-config==0.1.0
+colcon-powershell @ file:///home/conda/feedstock_root/build_artifacts/colcon-powershell_1696619376643/work
+colcon-python-setup-py @ file:///home/conda/feedstock_root/build_artifacts/colcon-python-setup-py_1601954456112/work
+colcon-recursive-crawl @ file:///home/conda/feedstock_root/build_artifacts/colcon-recursive-crawl_1696534495468/work
+colcon-ros @ file:///home/conda/feedstock_root/build_artifacts/colcon-ros_1696545432471/work
+colcon-test-result==0.3.8
+colcon-zsh @ file:///home/conda/feedstock_root/build_artifacts/colcon-zsh_1696623792455/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+coloredlogs @ file:///home/conda/feedstock_root/build_artifacts/coloredlogs_1643220139154/work
+composition-interfaces==1.2.1
+contourpy @ file:///Users/runner/miniforge3/conda-bld/contourpy_1699041432046/work
+coverage @ file:///Users/runner/miniforge3/conda-bld/coverage_1696281819137/work
+cppcheck==0.0.0
+cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography-split_1698192281817/work
+cv-bridge==3.2.1
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1696677705766/work
+demo-nodes-py==0.20.3
+diagnostic-msgs==4.2.3
+diagnostic-updater==3.1.0
+distlib @ file:///home/conda/feedstock_root/build_artifacts/distlib_1689598491484/work
+distro @ file:///home/conda/feedstock_root/build_artifacts/distro_1675116244235/work
+docutils @ file:///Users/runner/miniforge3/conda-bld/docutils_1695300456210/work
+domain-coordinator==0.10.0
+dwb-msgs==1.1.5
+empy==3.3.4
+example-interfaces==0.9.3
+examples-rclpy-executors==0.15.1
+examples-rclpy-minimal-action-client==0.15.1
+examples-rclpy-minimal-action-server==0.15.1
+examples-rclpy-minimal-client==0.15.1
+examples-rclpy-minimal-publisher==0.15.1
+examples-rclpy-minimal-service==0.15.1
+examples-rclpy-minimal-subscriber==0.15.1
+exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1692026125334/work
+flake8 @ file:///home/conda/feedstock_root/build_artifacts/flake8_1690833614949/work
+fonttools @ file:///Users/runner/miniforge3/conda-bld/fonttools_1699023564571/work
+frozenlist @ file:///Users/runner/miniforge3/conda-bld/frozenlist_1695377807068/work
+gazebo-msgs==3.7.0
+geometry-msgs==4.2.3
+humanfriendly @ file:///home/conda/feedstock_root/build_artifacts/humanfriendly_1696765224545/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+image-geometry==3.2.1
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1688754491823/work
+importlib-resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1699364556997/work
+iniconfig @ file:///home/conda/feedstock_root/build_artifacts/iniconfig_1673103042956/work
+interactive-markers==2.3.2
+kiwisolver @ file:///Users/runner/miniforge3/conda-bld/kiwisolver_1695379982481/work
+lark-parser @ file:///home/conda/feedstock_root/build_artifacts/lark-parser_1630320752939/work
+laser-geometry==2.4.0
+launch==1.0.4
+launch-ros==0.19.4
+launch-testing==1.0.4
+launch-testing-ros==0.19.4
+launch-xml==1.0.4
+launch-yaml==1.0.4
+lifecycle-msgs==1.2.1
+logging-demo==0.20.3
+loguru @ file:///Users/runner/miniforge3/conda-bld/loguru_1695547399465/work
+lxml @ file:///Users/runner/miniforge3/conda-bld/lxml_1671013522951/work
+map-msgs==2.1.0
+matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-suite_1698868718596/work
+mccabe @ file:///home/conda/feedstock_root/build_artifacts/mccabe_1643049622439/work
+message-filters==4.3.2
+multidict @ file:///Users/runner/miniforge3/conda-bld/multidict_1696716121514/work
+munkres==1.1.4
+nav-2d-msgs==1.1.5
+nav-msgs==4.2.3
+nav2-common==1.1.5
+nav2-msgs==1.1.5
+nav2-simple-commander==1.0.0
+netifaces @ file:///Users/runner/miniforge3/conda-bld/netifaces_1695545483760/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1695291065989/work/dist/numpy-1.26.0-cp310-cp310-macosx_11_0_arm64.whl#sha256=3b09a4aea2f802a2bc12443e03ae149ed12c131618139900cc5d73e3da67ebec
+opencv-python==4.6.0
+osrf-pycommon @ file:///home/conda/feedstock_root/build_artifacts/osrf_pycommon_1626758968833/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1696202382185/work
+pcl-msgs==1.0.0
+pendulum-msgs==0.20.3
+pep517 @ file:///home/conda/feedstock_root/build_artifacts/pep517_1667916641627/work
+Pillow @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_ccx0_h9rkg/croot/pillow_1696580032390/work
+pluggy @ file:///home/conda/feedstock_root/build_artifacts/pluggy_1693086607691/work
+ply==3.11
+psutil @ file:///Users/runner/miniforge3/conda-bld/psutil_1695367212704/work
+pybind11 @ file:///Users/runner/miniforge3/conda-bld/pybind11-split_1695367269352/work
+pybind11-global @ file:///Users/runner/miniforge3/conda-bld/pybind11-split_1695367269352/work
+pybullet @ file:///Users/runner/miniforge3/conda-bld/bullet_1666972455290/work
+pycairo==1.25.0
+pycodestyle @ file:///home/conda/feedstock_root/build_artifacts/pycodestyle_1697202867721/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pydocstyle @ file:///home/conda/feedstock_root/build_artifacts/pydocstyle_1673997487070/work
+pydot @ file:///Users/runner/miniforge3/conda-bld/pydot_1695469167713/work
+pyflakes @ file:///home/conda/feedstock_root/build_artifacts/pyflakes_1690656279496/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1690737849915/work
+PyQt-builder @ file:///home/conda/feedstock_root/build_artifacts/pyqt-builder_1697294161312/work
+PyQt5-sip==12.12.2
+pytest @ file:///home/conda/feedstock_root/build_artifacts/pytest_1698233724984/work
+pytest-cov @ file:///home/conda/feedstock_root/build_artifacts/pytest-cov_1684964868191/work
+pytest-repeat @ file:///home/conda/feedstock_root/build_artifacts/pytest-repeat_1696219743395/work
+pytest-rerunfailures @ file:///home/conda/feedstock_root/build_artifacts/pytest-rerunfailures_1688559566873/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+python-qt-binding==1.1.1
+PyYAML @ file:///Users/runner/miniforge3/conda-bld/pyyaml_1695373498369/work
+qt-dotgraph==2.2.2
+qt-gui==2.2.2
+qt-gui-cpp==2.2.2
+qt-gui-py-common==2.2.2
+quality-of-service-demo-py==0.20.3
+rcl-interfaces==1.2.1
+rclpy==3.3.7
+rcutils==5.1.2
+resource-retriever==3.1.1
+rmw-dds-common==1.6.0
+ros2action==0.18.5
+ros2bag==0.15.4
+ros2cli==0.18.5
+ros2component==0.18.5
+ros2doctor==0.18.5
+ros2interface==0.18.5
+ros2launch==0.19.4
+ros2lifecycle==0.18.5
+ros2multicast==0.18.5
+ros2node==0.18.5
+ros2param==0.18.5
+ros2pkg==0.18.5
+ros2run==0.18.5
+ros2service==0.18.5
+ros2topic==0.18.5
+rosbag2-interfaces==0.15.4
+rosbag2-py==0.15.4
+rosdistro @ file:///Users/runner/miniforge3/conda-bld/rosdistro_1695545925392/work
+rosgraph-msgs==1.2.1
+rosidl-adapter==3.1.4
+rosidl-cli==3.1.4
+rosidl-cmake==3.1.4
+rosidl-generator-c==3.1.4
+rosidl-generator-cpp==3.1.4
+rosidl-generator-py==0.14.4
+rosidl-parser==3.1.4
+rosidl-runtime-py==0.9.3
+rosidl-typesupport-c==2.0.0
+rosidl-typesupport-cpp==2.0.0
+rosidl-typesupport-fastrtps-c==2.2.0
+rosidl-typesupport-fastrtps-cpp==2.2.0
+rosidl-typesupport-introspection-c==3.1.4
+rosidl-typesupport-introspection-cpp==3.1.4
+rospkg @ file:///home/conda/feedstock_root/build_artifacts/rospkg_1679367642027/work
+rpyutils==0.2.1
+rqt-action==2.0.1
+rqt-bag==1.1.4
+rqt-bag-plugins==1.1.4
+rqt-console==2.0.2
+rqt-graph==1.3.0
+rqt-gui==1.1.4
+rqt-gui-py==1.1.4
+rqt-msg==1.2.0
+rqt-plot==1.1.2
+rqt-publisher==1.5.0
+rqt-py-common==1.1.4
+rqt-py-console==1.0.2
+rqt-reconfigure==1.1.1
+rqt-service-caller==1.0.5
+rqt-shell==1.0.2
+rqt-srv==1.0.3
+rqt-topic==1.5.0
+scripts==3.7.0
+sensor-msgs==4.2.3
+sensor-msgs-py==4.2.3
+shape-msgs==4.2.3
+sip @ file:///Users/runner/miniforge3/conda-bld/sip_1697300470373/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+slam-toolbox==2.6.4
+smclib==3.0.2
+snowballstemmer @ file:///home/conda/feedstock_root/build_artifacts/snowballstemmer_1637143057757/work
+sros2==0.10.4
+statistics-msgs==1.2.1
+std-msgs==4.2.3
+std-srvs==4.2.3
+stereo-msgs==4.2.3
+teleop-twist-keyboard==2.3.2
+tf2-geometry-msgs==0.25.2
+tf2-kdl==0.25.2
+tf2-msgs==0.25.2
+tf2-py==0.25.2
+tf2-ros-py==0.25.2
+tf2-tools==0.25.2
+toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1604308577558/work
+tomli @ file:///home/conda/feedstock_root/build_artifacts/tomli_1644342247877/work
+topic-monitor==0.20.3
+trajectory-msgs==4.2.3
+turtlebot3-example==2.1.5
+turtlebot3-msgs==2.2.3
+turtlebot3-teleop==2.1.5
+turtlesim==1.4.2
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1695040754690/work
+unicodedata2 @ file:///Users/runner/miniforge3/conda-bld/unicodedata2_1695848003431/work
+unique-identifier-msgs==2.2.1
+visualization-msgs==4.2.3
+vtk==9.2.2
+wslink @ file:///home/conda/feedstock_root/build_artifacts/wslink_1698265052461/work
+yarl @ file:///Users/runner/miniforge3/conda-bld/yarl_1696732624627/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1695255097490/work
